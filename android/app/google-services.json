@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399029662415",
+    "project_id": "gestiontareas-3984e",
+    "storage_bucket": "gestiontareas-3984e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399029662415:android:46b754b89de9f39a7f7dba",
+        "android_client_info": {
+          "package_name": "com.miproyecto.gestion_tareas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFsViuY6vr9apx369cVdjBTPrYZTtlS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
